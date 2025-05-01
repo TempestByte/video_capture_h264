@@ -9,6 +9,8 @@ Video capture using default camera and OpenCV. Grabs frames from the default cam
 - [OpenCV](https://opencv.org/) built with FFmpeg & x264 support
 - [CMake](https://cmake.org/) ≥ 3.10.0
 - VSC extensions for CMake, C/C++
+- Download https://github.com/cisco/openh264/releases/tag/v1.8.0. - exactly this version!
+- Make sure openh264-1.8.0-win64.dll is in opencv\build\x64\vc16\bin and opencv_videoio_ffmpeg4110_64.dll is in video_capture_h264\out\build\mypreset.  opencv_videoio_ffmpeg4110_64.dll is located opencv\build\x64\vc16\bin
 
 ## Building:
 
