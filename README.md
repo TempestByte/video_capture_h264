@@ -15,6 +15,6 @@ Video capture using default camera and OpenCV. Grabs frames from the default cam
 
 ## Building:
 
-- Build it using the build and run from the CMake extension
+- Build it using the build and run from the CMake extension:
 - ![grafik](https://github.com/user-attachments/assets/80bbf7cc-fc0b-459a-b47d-88234e6d1607)
 
